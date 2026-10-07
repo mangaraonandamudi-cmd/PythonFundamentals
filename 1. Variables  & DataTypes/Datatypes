@@ -1,0 +1,22 @@
+Common Data Types in Python :
+
+int, str, float, bool
+
+
+a. Integer
+● Whole numbers, positive or negative
+● Example: a = 10
+
+b. Float
+● Decimal numbers, positive or negative
+● Example: b = 6.2
+
+
+c. String
+● Sequence of characters enclosed in quotes (single or double)
+● Example: c = "Matt"
+
+
+d. Boolean
+● Represents True or False values
+● Example: d = True

@@ -1,0 +1,8 @@
+In Python, variables are stored values for later use
+
+Varibales no need to declare data types in advance
+
+Eg : a = 10
+     s = "Nandamudi"
+     b = 6.2 
+     flag = true
